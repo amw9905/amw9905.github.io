@@ -1,6 +1,6 @@
 ---
-title: "Untitled"
-output: html_document
+layout: post
+title: test
 ---
 
 ```{r setup, include=FALSE}
