@@ -33,6 +33,6 @@ You can also embed plots, for example:
 ![LSTM]({{ '/images/cajun.png' | absolute_url }})
 
 
-![LSTM|100X100,20%]({{ '/images/cajun.png' | absolute_url }})
+![LSTM|100x100,20%]({{ '/images/cajun.png' | absolute_url }})
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
