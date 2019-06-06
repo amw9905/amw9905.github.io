@@ -32,6 +32,6 @@ You can also embed plots, for example:
 
 ![LSTM]({{ '/images/cajun.png' | absolute_url }})
 
-![LSTM](/images/cajun2.png){:style="float: left;margin-left: 7px;margin-top: 7px;"}
+![LSTM](/images/cajun2.png){:style="float: left;margin-left: 10px;margin-top: 7px;"}
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
