@@ -30,6 +30,6 @@ summary(cars)
 
 You can also embed plots, for example:
 
-![](testagain_files/figure-html/pressure-1.png)<!-- -->
+% include figure.html file="cajun.png" alt="cajun" width="45%" %}
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
