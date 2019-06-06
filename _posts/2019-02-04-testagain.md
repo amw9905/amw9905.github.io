@@ -30,7 +30,7 @@ summary(cars)
 
 You can also embed plots, for example:
 
-![LSTM]({{ '/images/cajun.png' | absolute_url }})
+![LSTM]({{ '/images/cajun.png' | absolute_url }} | width =100)
 
 <img src="images/cajun.png" class="img-responsive" alt=""> </div>
 
