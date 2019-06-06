@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yo
+title: Yoyo
 ---
 
 
