@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
 ![LSTM](/images/Argen3.jpg){:style="float: left;margin-left: 0px;margin-top: 0px;"}
