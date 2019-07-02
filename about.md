@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: 
 ---
 
-![LSTM]({{ '/images/cajun.png' | absolute_url }})
+![LSTM]({{ '/images/cajun2.png' | absolute_url }})
 
 
 This is an about page about this awesome site.
