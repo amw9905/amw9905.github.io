@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![LSTM](/images/Argen3.jpg){:style="float: left;margin-left: 10px;margin-top: 7px;"}
+![LSTM](/images/Argen3.jpg){:style="float: left;margin-left: 11px;margin-top: 8px;"}
 
 
 This is an about page about this awesome site.
