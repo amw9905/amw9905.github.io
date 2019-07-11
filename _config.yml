@@ -1,9 +1,10 @@
 # basic options
 title: Argen West
-author: amw9905
+author: ""
 description: ""
-github_username: amw9905
-linkedin_username: argen-west-phd-b553299b
+social_links:
+  github_username: amw9905
+  linkedin_username: argen-west-phd-b553299b
 
 
 # Build settings
