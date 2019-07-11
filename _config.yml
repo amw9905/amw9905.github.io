@@ -4,11 +4,9 @@ author: amw9905
 description: ""
 github_username: amw9905
 linkedin_username: argen-west-phd-b553299b
-rss: ""
-rss_username: ""
+
 
 
 # Build settings
 markdown: kramdown
 theme: minima
-gems: ""
